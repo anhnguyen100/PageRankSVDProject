@@ -187,7 +187,7 @@ Both reconstructions are compared with mean squared error (MSE).
 
 ## Running the Code
 
-Assuming the script is saved as `main.py`:
+Thescript is saved as `main.py`:
 
     python main.py
 
