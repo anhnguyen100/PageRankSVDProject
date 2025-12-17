@@ -75,7 +75,7 @@ Edit the main section in `main.py` to customize:
 ### Sample Size Recommendations
 
 - **500 samples**: Quick test on limited memory
-- **1000 samples**: Balanced performance (recommended)
+- **1000 samples**: Balanced performance
 - **2000 samples**: More samples for better statistical results (requires more memory)
 
 ## Key Findings
@@ -113,6 +113,6 @@ The analysis helps determine:
 
 ## Authors
 
-Cami Loyola
-Helen Martinez
-Anh Nguyen
+Cami Loyola,
+Helen Martinez,
+Anh Nguyen,
